@@ -1,0 +1,32 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Аккаунт</title>
+</head>
+<body>
+    <div><center><h1>Аккаунт</h1></center></div>
+     <div><h2>Данные</h2></div>
+    <div>
+        <ul>
+
+            <li>
+                Id пользователя: {{ form.id_name }}
+            </li>
+            <li>
+                Имя:  {{ form.name }}
+            </li>
+            <li>
+                Фамилия: {{ form.surname }}
+            </li>
+            <li>
+                Возраст:  {{ form.age }}
+            </li>
+            <li>
+                Email:  {{ form.email }}
+            </li>
+        </ul>
+    </div>
+    <div><center><h3><a href="http://127.0.0.1:8000/register">Изменить данные</a></h3></center></div>
+</body>
+</html>

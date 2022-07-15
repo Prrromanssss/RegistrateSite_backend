@@ -1,0 +1,22 @@
+[
+    {
+        "roman_boyko.48@mail.ru": {
+            "name": "Роман",
+            "surname": "Бойко",
+            "age": 2,
+            "email": "roman_boyko.48@mail.ru",
+            "password": "6788",
+            "id_name": 0
+        }
+    },
+    {
+        "roman_boyko89.48@mail.ru": {
+            "name": "Роман",
+            "surname": "Бойко",
+            "age": 9,
+            "email": "roman_boyko89.48@mail.ru",
+            "password": "6788",
+            "id_name": 1
+        }
+    }
+]
